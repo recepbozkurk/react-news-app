@@ -21,4 +21,4 @@ Kullanılan Teknolojiler:
  ODM: Mongoose
  
  Frontend:
- ReactJS, Hooks, Context
+ ReactJS, Hooks, Context, Bootstrap 4
